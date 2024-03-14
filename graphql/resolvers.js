@@ -1,6 +1,6 @@
 // resolvers.js
 
-const Book = require('./models/Book');
+const Book = require('../models/Book');
 
 const resolvers = {
   Query: {
